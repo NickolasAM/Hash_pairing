@@ -1,0 +1,7 @@
+person = {name: "john",
+age: 29,
+hair_color: "red",
+gender: "male"}
+
+person["height"] = 6
+person["weight"] = 200
